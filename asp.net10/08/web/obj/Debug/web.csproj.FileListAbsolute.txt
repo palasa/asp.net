@@ -1,0 +1,52 @@
+C:\Documents and Settings\Administrator\桌面\asp.net08\08\web\bin\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net08\08\web\bin\web.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net08\08\web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net08\08\web\obj\Debug\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net08\08\web\obj\Debug\web.pdb
+F:\net3期\asp.net08\08\web\obj\Debug\web.dll
+F:\net3期\asp.net08\08\web\obj\Debug\web.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\obj\Debug\web.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\bin\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\bin\web.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\bin\BL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\bin\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\bin\BL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\bin\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\web\obj\Debug\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\obj\Debug\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\obj\Debug\web.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\web.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\BL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\Newtonsoft.Json.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\DAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\MySql.Data.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\BL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\Common.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\web\bin\Common.pdb
+D:\asp.net10\08\web\bin\web.dll
+D:\asp.net10\08\web\bin\web.pdb
+D:\asp.net10\08\web\bin\BL.dll
+D:\asp.net10\08\web\bin\Model.dll
+D:\asp.net10\08\web\bin\Newtonsoft.Json.dll
+D:\asp.net10\08\web\bin\DAL.dll
+D:\asp.net10\08\web\bin\Common.dll
+D:\asp.net10\08\web\bin\DBUtility.dll
+D:\asp.net10\08\web\bin\MySql.Data.dll
+D:\asp.net10\08\web\bin\BL.pdb
+D:\asp.net10\08\web\bin\Model.pdb
+D:\asp.net10\08\web\bin\DAL.pdb
+D:\asp.net10\08\web\bin\Common.pdb
+D:\asp.net10\08\web\bin\DBUtility.pdb
+D:\asp.net10\08\web\obj\Debug\ResolveAssemblyReference.cache
+D:\asp.net10\08\web\obj\Debug\web.dll
+D:\asp.net10\08\web\obj\Debug\web.pdb

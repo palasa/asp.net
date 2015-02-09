@@ -1,0 +1,37 @@
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\BL\bin\Debug\BL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\BL\bin\Debug\BL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\BL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\BL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\BL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\BL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\BL\obj\Debug\BL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\BL\obj\Debug\BL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\BL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\BL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\obj\Debug\BL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\obj\Debug\BL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\BL\bin\Debug\Common.pdb
+D:\asp.net10\08\BL\bin\Debug\BL.dll
+D:\asp.net10\08\BL\bin\Debug\BL.pdb
+D:\asp.net10\08\BL\bin\Debug\Common.dll
+D:\asp.net10\08\BL\bin\Debug\DAL.dll
+D:\asp.net10\08\BL\bin\Debug\Model.dll
+D:\asp.net10\08\BL\bin\Debug\DBUtility.dll
+D:\asp.net10\08\BL\bin\Debug\MySql.Data.dll
+D:\asp.net10\08\BL\bin\Debug\Common.pdb
+D:\asp.net10\08\BL\bin\Debug\DAL.pdb
+D:\asp.net10\08\BL\bin\Debug\Model.pdb
+D:\asp.net10\08\BL\bin\Debug\DBUtility.pdb
+D:\asp.net10\08\BL\obj\Debug\ResolveAssemblyReference.cache
+D:\asp.net10\08\BL\obj\Debug\BL.dll
+D:\asp.net10\08\BL\obj\Debug\BL.pdb

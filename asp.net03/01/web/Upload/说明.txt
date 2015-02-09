@@ -1,0 +1,18 @@
+数据库：
+sqlserver 2005
+用户名：sa
+密码：123
+
+oracle
+用户名：sys/system
+密码：eduask
+
+CentOS
+用户名：root
+密码：eduask
+用户名：eduask
+密码：eduask
+
+mysql数据库
+用户名：root
+密码：123

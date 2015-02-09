@@ -1,0 +1,61 @@
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\Web.dll
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\Web.pdb
+C:\Documents and Settings\Administrator\桌面\Project\Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Project\Web\obj\Debug\Web.dll
+C:\Documents and Settings\Administrator\桌面\Project\Web\obj\Debug\Web.pdb
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\BL.dll
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\BL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\MYSQLDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\SQLDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\MYSQLDAL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\Web\bin\SQLDAL.pdb
+D:\Project\Web\bin\Web.dll
+D:\Project\Web\bin\Web.pdb
+D:\Project\Web\bin\BL.dll
+D:\Project\Web\bin\DALFactory.dll
+D:\Project\Web\bin\IDAL.dll
+D:\Project\Web\bin\MYSQLDAL.dll
+D:\Project\Web\bin\SQLDAL.dll
+D:\Project\Web\bin\BL.pdb
+D:\Project\Web\bin\DALFactory.pdb
+D:\Project\Web\bin\IDAL.pdb
+D:\Project\Web\bin\MYSQLDAL.pdb
+D:\Project\Web\bin\SQLDAL.pdb
+D:\Project\Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Web\obj\Debug\Web.dll
+D:\Project\Web\obj\Debug\Web.pdb
+E:\Project\Web\bin\Web.dll
+E:\Project\Web\bin\Web.pdb
+E:\Project\Web\bin\BL.dll
+E:\Project\Web\bin\DALFactory.dll
+E:\Project\Web\bin\IDAL.dll
+E:\Project\Web\bin\MYSQLDAL.dll
+E:\Project\Web\bin\SQLDAL.dll
+E:\Project\Web\bin\BL.pdb
+E:\Project\Web\bin\DALFactory.pdb
+E:\Project\Web\bin\IDAL.pdb
+E:\Project\Web\bin\MYSQLDAL.pdb
+E:\Project\Web\bin\SQLDAL.pdb
+E:\Project\Web\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Web\obj\Debug\Web.dll
+E:\Project\Web\obj\Debug\Web.pdb
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\Web.dll.config
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\Web.dll
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\Web.pdb
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\BL.dll
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\DALFactory.dll
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\IDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\MYSQLDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\SQLDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\BL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\DALFactory.pdb
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\IDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\MYSQLDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\Web\bin\SQLDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\龚\Desktop\asp.net08\Project\Web\obj\Debug\Web.dll
+C:\Users\龚\Desktop\asp.net08\Project\Web\obj\Debug\Web.pdb

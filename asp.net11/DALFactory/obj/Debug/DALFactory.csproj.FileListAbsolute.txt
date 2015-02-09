@@ -1,0 +1,145 @@
+C:\Documents and Settings\Administrator\桌面\MVCTEST\MVCI\DALFactory\bin\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\MVCTEST\MVCI\DALFactory\bin\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\MVCTEST\MVCI\DALFactory\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\MVCTEST\MVCI\DALFactory\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\MVCTEST\MVCI\DALFactory\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\MVCTEST\MVCI\DALFactory\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\MVCTEST\MVCI\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MVCTEST\MVCI\DALFactory\obj\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\MVCTEST\MVCI\DALFactory\obj\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\di11tian\MVCI\DALFactory\bin\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\di11tian\MVCI\DALFactory\bin\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\di11tian\MVCI\DALFactory\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\di11tian\MVCI\DALFactory\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\di11tian\MVCI\DALFactory\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\di11tian\MVCI\DALFactory\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\di11tian\MVCI\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\di11tian\MVCI\DALFactory\obj\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\di11tian\MVCI\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\MVCI\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\MVCI\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\MVCI\DALFactory\bin\Debug\IDAL.dll
+C:\Users\SlayersHead\Desktop\MVCI\DALFactory\bin\Debug\Model.dll
+C:\Users\SlayersHead\Desktop\MVCI\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\SlayersHead\Desktop\MVCI\DALFactory\bin\Debug\Model.pdb
+C:\Users\SlayersHead\Desktop\MVCI\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SlayersHead\Desktop\MVCI\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\MVCI\DALFactory\obj\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\ProjectTest\MVCI\DALFactory\bin\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\ProjectTest\MVCI\DALFactory\bin\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\ProjectTest\MVCI\DALFactory\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\ProjectTest\MVCI\DALFactory\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\ProjectTest\MVCI\DALFactory\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\ProjectTest\MVCI\DALFactory\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\ProjectTest\MVCI\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ProjectTest\MVCI\DALFactory\obj\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\ProjectTest\MVCI\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\ProjectTest\MVCI\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\ProjectTest\MVCI\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\ProjectTest\MVCI\DALFactory\bin\Debug\IDAL.dll
+C:\Users\SlayersHead\Desktop\ProjectTest\MVCI\DALFactory\bin\Debug\Model.dll
+C:\Users\SlayersHead\Desktop\ProjectTest\MVCI\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\SlayersHead\Desktop\ProjectTest\MVCI\DALFactory\bin\Debug\Model.pdb
+C:\Users\SlayersHead\Desktop\ProjectTest\MVCI\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SlayersHead\Desktop\ProjectTest\MVCI\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\ProjectTest\MVCI\DALFactory\obj\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\di13tian\ProjectTest\MVCI\DALFactory\bin\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\di13tian\ProjectTest\MVCI\DALFactory\bin\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\di13tian\ProjectTest\MVCI\DALFactory\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\di13tian\ProjectTest\MVCI\DALFactory\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\di13tian\ProjectTest\MVCI\DALFactory\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\di13tian\ProjectTest\MVCI\DALFactory\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\di13tian\ProjectTest\MVCI\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\di13tian\ProjectTest\MVCI\DALFactory\obj\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\di13tian\ProjectTest\MVCI\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\asp.net14\MVCI\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\asp.net14\MVCI\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\asp.net14\MVCI\DALFactory\bin\Debug\IDAL.dll
+C:\Users\SlayersHead\Desktop\asp.net14\MVCI\DALFactory\bin\Debug\Model.dll
+C:\Users\SlayersHead\Desktop\asp.net14\MVCI\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\SlayersHead\Desktop\asp.net14\MVCI\DALFactory\bin\Debug\Model.pdb
+C:\Users\SlayersHead\Desktop\asp.net14\MVCI\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SlayersHead\Desktop\asp.net14\MVCI\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\asp.net14\MVCI\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\asp.net三期0625\ninthDay\MVCI\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\asp.net三期0625\ninthDay\MVCI\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\asp.net三期0625\ninthDay\MVCI\DALFactory\bin\Debug\IDAL.dll
+C:\Users\SlayersHead\Desktop\asp.net三期0625\ninthDay\MVCI\DALFactory\bin\Debug\Model.dll
+C:\Users\SlayersHead\Desktop\asp.net三期0625\ninthDay\MVCI\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\SlayersHead\Desktop\asp.net三期0625\ninthDay\MVCI\DALFactory\bin\Debug\Model.pdb
+C:\Users\SlayersHead\Desktop\asp.net三期0625\ninthDay\MVCI\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SlayersHead\Desktop\asp.net三期0625\ninthDay\MVCI\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\asp.net三期0625\ninthDay\MVCI\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\NinthDay\MVCI\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\NinthDay\MVCI\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\NinthDay\MVCI\DALFactory\bin\Debug\IDAL.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\NinthDay\MVCI\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\NinthDay\MVCI\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\NinthDay\MVCI\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\NinthDay\MVCI\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\NinthDay\MVCI\DALFactory\bin\Debug\Model.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\NinthDay\MVCI\DALFactory\bin\Debug\Model.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ElevenDay\11\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ElevenDay\11\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ElevenDay\11\DALFactory\bin\Debug\IDAL.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ElevenDay\11\DALFactory\bin\Debug\Model.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ElevenDay\11\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ElevenDay\11\DALFactory\bin\Debug\Model.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ElevenDay\11\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ElevenDay\11\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ElevenDay\11\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\TwelveDay\11\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\TwelveDay\11\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\TwelveDay\11\DALFactory\bin\Debug\IDAL.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\TwelveDay\11\DALFactory\bin\Debug\Model.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\TwelveDay\11\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\TwelveDay\11\DALFactory\bin\Debug\Model.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\TwelveDay\11\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\TwelveDay\11\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\TwelveDay\11\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ThirteenDay\13\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ThirteenDay\13\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ThirteenDay\13\DALFactory\bin\Debug\IDAL.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ThirteenDay\13\DALFactory\bin\Debug\Model.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ThirteenDay\13\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ThirteenDay\13\DALFactory\bin\Debug\Model.pdb
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ThirteenDay\13\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ThirteenDay\13\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\SlayersHead\Desktop\教师工作目录\asp.net课件\asp.net三期0728\ThirteenDay\13\DALFactory\obj\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\4\DALFactory\bin\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\4\DALFactory\bin\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\4\DALFactory\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\4\DALFactory\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\4\DALFactory\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\4\DALFactory\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\4\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net10\4\DALFactory\obj\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\4\DALFactory\obj\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\Project\DALFactory\bin\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\Project\DALFactory\bin\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\Project\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Project\DALFactory\obj\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\Project\DALFactory\obj\Debug\DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\Project\DALFactory\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\DALFactory\bin\Debug\IDAL.pdb
+D:\Project\DALFactory\bin\Debug\DALFactory.dll
+D:\Project\DALFactory\bin\Debug\DALFactory.pdb
+D:\Project\DALFactory\bin\Debug\IDAL.dll
+D:\Project\DALFactory\bin\Debug\IDAL.pdb
+D:\Project\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\DALFactory\obj\Debug\DALFactory.dll
+D:\Project\DALFactory\obj\Debug\DALFactory.pdb
+E:\Project\DALFactory\bin\Debug\DALFactory.dll
+E:\Project\DALFactory\bin\Debug\DALFactory.pdb
+E:\Project\DALFactory\bin\Debug\IDAL.dll
+E:\Project\DALFactory\bin\Debug\IDAL.pdb
+E:\Project\DALFactory\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\DALFactory\obj\Debug\DALFactory.dll
+E:\Project\DALFactory\obj\Debug\DALFactory.pdb
+C:\Users\龚\Desktop\asp.net08\Project\DALFactory\bin\Debug\DALFactory.dll
+C:\Users\龚\Desktop\asp.net08\Project\DALFactory\bin\Debug\DALFactory.pdb
+C:\Users\龚\Desktop\asp.net08\Project\DALFactory\bin\Debug\IDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\DALFactory\bin\Debug\IDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+C:\Users\龚\Desktop\asp.net08\Project\DALFactory\obj\Debug\DALFactory.dll
+C:\Users\龚\Desktop\asp.net08\Project\DALFactory\obj\Debug\DALFactory.pdb

@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\01\myClass\bin\Debug\myClass.dll
+C:\Documents and Settings\Administrator\桌面\01\myClass\bin\Debug\myClass.pdb
+C:\Documents and Settings\Administrator\桌面\01\myClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\01\myClass\obj\Debug\myClass.dll
+C:\Documents and Settings\Administrator\桌面\01\myClass\obj\Debug\myClass.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\myClass\bin\Debug\myClass.dll
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\myClass\bin\Debug\myClass.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\myClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\myClass\obj\Debug\myClass.dll
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\myClass\obj\Debug\myClass.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\myClass\bin\Debug\myClass.dll
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\myClass\bin\Debug\myClass.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\myClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\myClass\obj\Debug\myClass.dll
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\myClass\obj\Debug\myClass.pdb

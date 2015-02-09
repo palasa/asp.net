@@ -1,0 +1,5 @@
+C:\Users\龚\Desktop\asp.net08\Project\Model\bin\Debug\Model.dll
+C:\Users\龚\Desktop\asp.net08\Project\Model\bin\Debug\Model.pdb
+C:\Users\龚\Desktop\asp.net08\Project\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\龚\Desktop\asp.net08\Project\Model\obj\Debug\Model.dll
+C:\Users\龚\Desktop\asp.net08\Project\Model\obj\Debug\Model.pdb

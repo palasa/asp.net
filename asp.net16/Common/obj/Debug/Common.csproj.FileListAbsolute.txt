@@ -1,0 +1,21 @@
+C:\Documents and Settings\Administrator\桌面\Project\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Project\Common\bin\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\Project\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\Administrator\桌面\Project\Common\obj\Debug\Common.dll
+C:\Documents and Settings\Administrator\桌面\Project\Common\obj\Debug\Common.pdb
+E:\Project\Common\bin\Debug\Common.dll
+E:\Project\Common\bin\Debug\Common.pdb
+E:\Project\Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Common\obj\Debug\Common.dll
+E:\Project\Common\obj\Debug\Common.pdb
+C:\Users\龚\Desktop\asp.net08\Project\Common\bin\Debug\Common.dll
+C:\Users\龚\Desktop\asp.net08\Project\Common\bin\Debug\Common.pdb
+C:\Users\龚\Desktop\asp.net08\Project\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\龚\Desktop\asp.net08\Project\Common\obj\Debug\Common.dll
+C:\Users\龚\Desktop\asp.net08\Project\Common\obj\Debug\Common.pdb
+C:\Pro\Project\Common\bin\Debug\Common.dll
+C:\Pro\Project\Common\bin\Debug\Common.pdb
+C:\Pro\Project\Common\obj\Debug\Common.dll
+C:\Pro\Project\Common\obj\Debug\Common.pdb
+C:\Pro\Project\Common\bin\Debug\log4net.dll
+C:\Pro\Project\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Documents and Settings\Administrator\桌面\mysite" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/web.pdb" publishTime="01/08/2015 13:43:59" />
+    <file relUrl="Web.config" publishTime="01/08/2015 13:42:50" />
+    <file relUrl="Login.aspx" publishTime="12/29/2014 13:43:26" />
+    <file relUrl="bin/DBUtility.dll" publishTime="01/05/2015 13:39:06" />
+    <file relUrl="bin/Common.pdb" publishTime="01/05/2015 13:39:06" />
+    <file relUrl="Json.aspx" publishTime="01/05/2015 08:49:52" />
+    <file relUrl="bin/MySqlDAL.dll" publishTime="01/08/2015 13:39:12" />
+    <file relUrl="upload.aspx" publishTime="01/08/2015 09:35:58" />
+    <file relUrl="bin/DAL.pdb" publishTime="01/08/2015 13:39:13" />
+    <file relUrl="bin/Model.dll" publishTime="01/05/2015 13:39:06" />
+    <file relUrl="Main.aspx" publishTime="01/08/2015 09:42:40" />
+    <file relUrl="bin/IDAL.pdb" publishTime="01/08/2015 13:39:13" />
+    <file relUrl="script/jquery1.8.js" publishTime="12/29/2014 08:59:50" />
+    <file relUrl="bin/DBUtility.pdb" publishTime="01/05/2015 13:39:06" />
+    <file relUrl="bin/web.dll" publishTime="01/08/2015 13:43:59" />
+    <file relUrl="bin/BL.dll" publishTime="01/08/2015 13:41:49" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="01/04/2015 10:48:38" />
+    <file relUrl="bin/DALFactory.pdb" publishTime="01/08/2015 13:41:49" />
+    <file relUrl="bin/MySqlDAL.pdb" publishTime="01/08/2015 13:39:12" />
+    <file relUrl="bin/IDAL.dll" publishTime="01/08/2015 13:39:13" />
+    <file relUrl="bin/DAL.dll" publishTime="01/08/2015 13:39:13" />
+    <file relUrl="bin/Common.dll" publishTime="01/05/2015 13:39:06" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="10/17/2013 08:47:32" />
+    <file relUrl="bin/Model.pdb" publishTime="01/05/2015 13:39:06" />
+    <file relUrl="bin/DALFactory.dll" publishTime="01/08/2015 13:41:49" />
+    <file relUrl="bin/BL.pdb" publishTime="01/08/2015 13:41:49" />
+  </publishProfile>
+</publishData>

@@ -1,0 +1,28 @@
+C:\Documents and Settings\Administrator\桌面\Project\SQLDAL\bin\Debug\SQLDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\SQLDAL\bin\Debug\SQLDAL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Project\SQLDAL\obj\Debug\SQLDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\SQLDAL\obj\Debug\SQLDAL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\SQLDAL\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\SQLDAL\bin\Debug\IDAL.pdb
+D:\Project\SQLDAL\bin\Debug\SQLDAL.dll
+D:\Project\SQLDAL\bin\Debug\SQLDAL.pdb
+D:\Project\SQLDAL\bin\Debug\IDAL.dll
+D:\Project\SQLDAL\bin\Debug\IDAL.pdb
+D:\Project\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\SQLDAL\obj\Debug\SQLDAL.dll
+D:\Project\SQLDAL\obj\Debug\SQLDAL.pdb
+E:\Project\SQLDAL\bin\Debug\SQLDAL.dll
+E:\Project\SQLDAL\bin\Debug\SQLDAL.pdb
+E:\Project\SQLDAL\bin\Debug\IDAL.dll
+E:\Project\SQLDAL\bin\Debug\IDAL.pdb
+E:\Project\SQLDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\SQLDAL\obj\Debug\SQLDAL.dll
+E:\Project\SQLDAL\obj\Debug\SQLDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\SQLDAL\bin\Debug\SQLDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\SQLDAL\bin\Debug\SQLDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\SQLDAL\bin\Debug\IDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\SQLDAL\bin\Debug\IDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\SQLDAL\obj\Debug\SQLDAL.csprojResolveAssemblyReference.cache
+C:\Users\龚\Desktop\asp.net08\Project\SQLDAL\obj\Debug\SQLDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\SQLDAL\obj\Debug\SQLDAL.pdb

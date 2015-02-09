@@ -1,0 +1,40 @@
+C:\Documents and Settings\Administrator\桌面\Project\MYSQLDAL\bin\Debug\MYSQLDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\MYSQLDAL\bin\Debug\MYSQLDAL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\MYSQLDAL\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\MYSQLDAL\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\MYSQLDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Project\MYSQLDAL\obj\Debug\MYSQLDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\MYSQLDAL\obj\Debug\MYSQLDAL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\MYSQLDAL\bin\Debug\mysql.data.dll
+C:\Documents and Settings\Administrator\桌面\Project\MYSQLDAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\Project\MYSQLDAL\bin\Debug\DBUtility.pdb
+D:\Project\MYSQLDAL\bin\Debug\MYSQLDAL.dll
+D:\Project\MYSQLDAL\bin\Debug\MYSQLDAL.pdb
+D:\Project\MYSQLDAL\bin\Debug\DBUtility.dll
+D:\Project\MYSQLDAL\bin\Debug\IDAL.dll
+D:\Project\MYSQLDAL\bin\Debug\mysql.data.dll
+D:\Project\MYSQLDAL\bin\Debug\DBUtility.pdb
+D:\Project\MYSQLDAL\bin\Debug\IDAL.pdb
+D:\Project\MYSQLDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\MYSQLDAL\obj\Debug\MYSQLDAL.dll
+D:\Project\MYSQLDAL\obj\Debug\MYSQLDAL.pdb
+E:\Project\MYSQLDAL\bin\Debug\MYSQLDAL.dll
+E:\Project\MYSQLDAL\bin\Debug\MYSQLDAL.pdb
+E:\Project\MYSQLDAL\bin\Debug\DBUtility.dll
+E:\Project\MYSQLDAL\bin\Debug\IDAL.dll
+E:\Project\MYSQLDAL\bin\Debug\mysql.data.dll
+E:\Project\MYSQLDAL\bin\Debug\DBUtility.pdb
+E:\Project\MYSQLDAL\bin\Debug\IDAL.pdb
+E:\Project\MYSQLDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\MYSQLDAL\obj\Debug\MYSQLDAL.dll
+E:\Project\MYSQLDAL\obj\Debug\MYSQLDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\MYSQLDAL\bin\Debug\MYSQLDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\MYSQLDAL\bin\Debug\MYSQLDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\MYSQLDAL\bin\Debug\DBUtility.dll
+C:\Users\龚\Desktop\asp.net08\Project\MYSQLDAL\bin\Debug\IDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\MYSQLDAL\bin\Debug\mysql.data.dll
+C:\Users\龚\Desktop\asp.net08\Project\MYSQLDAL\bin\Debug\DBUtility.pdb
+C:\Users\龚\Desktop\asp.net08\Project\MYSQLDAL\bin\Debug\IDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\MYSQLDAL\obj\Debug\MYSQLDAL.csprojResolveAssemblyReference.cache
+C:\Users\龚\Desktop\asp.net08\Project\MYSQLDAL\obj\Debug\MYSQLDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\MYSQLDAL\obj\Debug\MYSQLDAL.pdb

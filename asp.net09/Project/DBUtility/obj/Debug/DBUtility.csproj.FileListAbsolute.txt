@@ -1,0 +1,24 @@
+C:\Documents and Settings\Administrator\桌面\Project\DBUtility\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\Project\DBUtility\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\Project\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Project\DBUtility\obj\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\Project\DBUtility\obj\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\Project\DBUtility\bin\Debug\mysql.data.dll
+D:\Project\DBUtility\bin\Debug\DBUtility.dll
+D:\Project\DBUtility\bin\Debug\DBUtility.pdb
+D:\Project\DBUtility\bin\Debug\mysql.data.dll
+D:\Project\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\DBUtility\obj\Debug\DBUtility.dll
+D:\Project\DBUtility\obj\Debug\DBUtility.pdb
+E:\Project\DBUtility\bin\Debug\DBUtility.dll
+E:\Project\DBUtility\bin\Debug\DBUtility.pdb
+E:\Project\DBUtility\bin\Debug\mysql.data.dll
+E:\Project\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\DBUtility\obj\Debug\DBUtility.dll
+E:\Project\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\龚\Desktop\asp.net08\Project\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\龚\Desktop\asp.net08\Project\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\龚\Desktop\asp.net08\Project\DBUtility\bin\Debug\mysql.data.dll
+C:\Users\龚\Desktop\asp.net08\Project\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\龚\Desktop\asp.net08\Project\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\龚\Desktop\asp.net08\Project\DBUtility\obj\Debug\DBUtility.pdb

@@ -1,0 +1,41 @@
+F:\net3期\asp.net08\08\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\net3期\asp.net08\08\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\DAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\DAL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\DAL\obj\Debug\DAL.pdb
+D:\asp.net10\08\DAL\bin\Debug\DAL.dll
+D:\asp.net10\08\DAL\bin\Debug\DAL.pdb
+D:\asp.net10\08\DAL\bin\Debug\DBUtility.dll
+D:\asp.net10\08\DAL\bin\Debug\Model.dll
+D:\asp.net10\08\DAL\bin\Debug\MySql.Data.dll
+D:\asp.net10\08\DAL\bin\Debug\DBUtility.pdb
+D:\asp.net10\08\DAL\bin\Debug\Model.pdb
+D:\asp.net10\08\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\asp.net10\08\DAL\obj\Debug\DAL.dll
+D:\asp.net10\08\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\bin\Debug\DBUtility.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\DAL\obj\Debug\DAL.pdb

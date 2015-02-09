@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\IDAL\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\IDAL\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\IDAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\IDAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\IDAL\obj\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\IDAL\obj\Debug\IDAL.pdb

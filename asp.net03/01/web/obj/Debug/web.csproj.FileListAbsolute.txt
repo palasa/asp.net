@@ -1,0 +1,31 @@
+C:\Documents and Settings\Administrator\桌面\asp.net01\01\web\bin\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net01\01\web\bin\web.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net01\01\web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net01\01\web\obj\Debug\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net01\01\web\obj\Debug\web.pdb
+D:\asp.net01\01\web\bin\web.dll
+D:\asp.net01\01\web\bin\web.pdb
+D:\asp.net01\01\web\obj\Debug\ResolveAssemblyReference.cache
+D:\asp.net01\01\web\obj\Debug\web.dll
+D:\asp.net01\01\web\obj\Debug\web.pdb
+C:\Documents and Settings\Administrator\桌面\01\web\bin\web.dll
+C:\Documents and Settings\Administrator\桌面\01\web\bin\web.pdb
+C:\Documents and Settings\Administrator\桌面\01\web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\01\web\obj\Debug\web.dll
+C:\Documents and Settings\Administrator\桌面\01\web\obj\Debug\web.pdb
+C:\Documents and Settings\Administrator\桌面\01\web\bin\myClass.dll
+C:\Documents and Settings\Administrator\桌面\01\web\bin\myClass.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\web\bin\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\web\bin\web.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\web\bin\myClass.dll
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\web\bin\myClass.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\web\obj\Debug\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net02\01\web\obj\Debug\web.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\web\bin\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\web\bin\web.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\web\bin\myClass.dll
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\web\bin\myClass.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\web\obj\Debug\web.dll
+C:\Documents and Settings\Administrator\桌面\asp.net03\01\web\obj\Debug\web.pdb

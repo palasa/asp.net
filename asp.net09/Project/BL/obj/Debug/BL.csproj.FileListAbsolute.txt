@@ -1,0 +1,36 @@
+C:\Documents and Settings\Administrator\桌面\Project\BL\bin\Debug\BL.dll
+C:\Documents and Settings\Administrator\桌面\Project\BL\bin\Debug\BL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Project\BL\obj\Debug\BL.dll
+C:\Documents and Settings\Administrator\桌面\Project\BL\obj\Debug\BL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\BL\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\BL\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\BL\bin\Debug\DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\Project\BL\bin\Debug\DALFactory.pdb
+D:\Project\BL\bin\Debug\BL.dll
+D:\Project\BL\bin\Debug\BL.pdb
+D:\Project\BL\bin\Debug\DALFactory.dll
+D:\Project\BL\bin\Debug\IDAL.dll
+D:\Project\BL\bin\Debug\DALFactory.pdb
+D:\Project\BL\bin\Debug\IDAL.pdb
+D:\Project\BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\BL\obj\Debug\BL.dll
+D:\Project\BL\obj\Debug\BL.pdb
+E:\Project\BL\bin\Debug\BL.dll
+E:\Project\BL\bin\Debug\BL.pdb
+E:\Project\BL\bin\Debug\DALFactory.dll
+E:\Project\BL\bin\Debug\IDAL.dll
+E:\Project\BL\bin\Debug\DALFactory.pdb
+E:\Project\BL\bin\Debug\IDAL.pdb
+E:\Project\BL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\BL\obj\Debug\BL.dll
+E:\Project\BL\obj\Debug\BL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\龚\Desktop\asp.net08\Project\BL\obj\Debug\BL.dll
+C:\Users\龚\Desktop\asp.net08\Project\BL\obj\Debug\BL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\BL\bin\Debug\BL.dll
+C:\Users\龚\Desktop\asp.net08\Project\BL\bin\Debug\BL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\BL\bin\Debug\DALFactory.dll
+C:\Users\龚\Desktop\asp.net08\Project\BL\bin\Debug\IDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\BL\bin\Debug\DALFactory.pdb
+C:\Users\龚\Desktop\asp.net08\Project\BL\bin\Debug\IDAL.pdb

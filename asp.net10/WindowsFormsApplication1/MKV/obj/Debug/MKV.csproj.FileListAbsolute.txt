@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\MKV\bin\Debug\MKV.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\MKV\bin\Debug\MKV.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\MKV\bin\Debug\IDECode.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\MKV\bin\Debug\IDECode.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\MKV\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\MKV\obj\Debug\MKV.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\MKV\obj\Debug\MKV.pdb

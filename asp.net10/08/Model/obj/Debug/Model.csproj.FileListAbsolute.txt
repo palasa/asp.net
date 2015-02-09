@@ -1,0 +1,19 @@
+F:\net3期\asp.net08\08\Model\bin\Debug\Model.dll
+F:\net3期\asp.net08\08\Model\bin\Debug\Model.pdb
+F:\net3期\asp.net08\08\Model\obj\Debug\Model.dll
+F:\net3期\asp.net08\08\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net09\08\Model\obj\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\Model\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\Model\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\Model\obj\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net10\08\Model\obj\Debug\Model.pdb
+D:\asp.net10\08\Model\bin\Debug\Model.dll
+D:\asp.net10\08\Model\bin\Debug\Model.pdb
+D:\asp.net10\08\Model\obj\Debug\ResolveAssemblyReference.cache
+D:\asp.net10\08\Model\obj\Debug\Model.dll
+D:\asp.net10\08\Model\obj\Debug\Model.pdb

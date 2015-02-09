@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Documents and Settings\Administrator\桌面\myweb" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/SQLDAL.dll" publishTime="09/14/2013 16:32:33" />
+    <file relUrl="WebForm1.aspx" publishTime="09/14/2013 16:31:20" />
+    <file relUrl="bin/Web.pdb" publishTime="09/14/2013 16:32:34" />
+    <file relUrl="bin/DALFactory.pdb" publishTime="09/14/2013 16:32:33" />
+    <file relUrl="bin/MYSQLDAL.pdb" publishTime="09/14/2013 16:32:33" />
+    <file relUrl="bin/SQLDAL.pdb" publishTime="09/14/2013 16:32:33" />
+    <file relUrl="bin/IDAL.pdb" publishTime="09/14/2013 16:32:33" />
+    <file relUrl="bin/BL.dll" publishTime="09/14/2013 16:32:33" />
+    <file relUrl="Web.config" publishTime="09/14/2013 16:32:34" />
+    <file relUrl="bin/MYSQLDAL.dll" publishTime="09/14/2013 16:32:33" />
+    <file relUrl="bin/Web.dll" publishTime="09/14/2013 16:32:34" />
+    <file relUrl="bin/IDAL.dll" publishTime="09/14/2013 16:32:33" />
+    <file relUrl="bin/DALFactory.dll" publishTime="09/14/2013 16:32:33" />
+    <file relUrl="bin/BL.pdb" publishTime="09/14/2013 16:32:33" />
+  </publishProfile>
+</publishData>

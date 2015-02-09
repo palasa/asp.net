@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\IDECode\bin\Debug\IDECode.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\IDECode\bin\Debug\IDECode.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\IDECode\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\IDECode\obj\Debug\IDECode.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\IDECode\obj\Debug\IDECode.pdb

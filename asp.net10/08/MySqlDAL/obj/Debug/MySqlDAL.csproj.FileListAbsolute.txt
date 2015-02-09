@@ -1,0 +1,5 @@
+D:\asp.net10\08\MySqlDAL\bin\Debug\MySqlDAL.dll
+D:\asp.net10\08\MySqlDAL\bin\Debug\MySqlDAL.pdb
+D:\asp.net10\08\MySqlDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\asp.net10\08\MySqlDAL\obj\Debug\MySqlDAL.dll
+D:\asp.net10\08\MySqlDAL\obj\Debug\MySqlDAL.pdb

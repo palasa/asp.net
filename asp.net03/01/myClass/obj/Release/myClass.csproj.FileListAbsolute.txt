@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\桌面\01\myClass\bin\Release\myClass.dll
+C:\Documents and Settings\Administrator\桌面\01\myClass\bin\Release\myClass.pdb
+C:\Documents and Settings\Administrator\桌面\01\myClass\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\01\myClass\obj\Release\myClass.dll
+C:\Documents and Settings\Administrator\桌面\01\myClass\obj\Release\myClass.pdb

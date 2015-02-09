@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\AVI\bin\Debug\AVI.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\AVI\bin\Debug\AVI.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\AVI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\AVI\obj\Debug\AVI.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\AVI\obj\Debug\AVI.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\AVI\bin\Debug\IDECode.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplication1\AVI\bin\Debug\IDECode.pdb

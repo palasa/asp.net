@@ -1,0 +1,17 @@
+D:\asp.net10\08\MySqlDAL\bin\Debug\MySqlDAL.dll
+D:\asp.net10\08\MySqlDAL\bin\Debug\MySqlDAL.pdb
+D:\asp.net10\08\MySqlDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\asp.net10\08\MySqlDAL\obj\Debug\MySqlDAL.dll
+D:\asp.net10\08\MySqlDAL\obj\Debug\MySqlDAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\bin\Debug\MySqlDAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\bin\Debug\MySqlDAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\obj\Debug\MySqlDAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\obj\Debug\MySqlDAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\bin\Debug\DBUtility.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\bin\Debug\mysql.data.dll
+C:\Documents and Settings\Administrator\桌面\asp.net11\08\MySqlDAL\bin\Debug\DBUtility.pdb

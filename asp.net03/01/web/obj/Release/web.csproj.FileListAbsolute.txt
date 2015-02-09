@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\桌面\01\web\bin\web.dll
+C:\Documents and Settings\Administrator\桌面\01\web\bin\web.pdb
+C:\Documents and Settings\Administrator\桌面\01\web\bin\myClass.dll
+C:\Documents and Settings\Administrator\桌面\01\web\bin\myClass.pdb
+C:\Documents and Settings\Administrator\桌面\01\web\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\01\web\obj\Release\web.dll
+C:\Documents and Settings\Administrator\桌面\01\web\obj\Release\web.pdb

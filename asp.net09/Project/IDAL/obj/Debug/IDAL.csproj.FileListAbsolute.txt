@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\桌面\Project\IDAL\bin\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\IDAL\bin\Debug\IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\Project\IDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Project\IDAL\obj\Debug\IDAL.dll
+C:\Documents and Settings\Administrator\桌面\Project\IDAL\obj\Debug\IDAL.pdb
+D:\Project\IDAL\bin\Debug\IDAL.dll
+D:\Project\IDAL\bin\Debug\IDAL.pdb
+D:\Project\IDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\IDAL\obj\Debug\IDAL.dll
+D:\Project\IDAL\obj\Debug\IDAL.pdb
+E:\Project\IDAL\bin\Debug\IDAL.dll
+E:\Project\IDAL\bin\Debug\IDAL.pdb
+E:\Project\IDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\IDAL\obj\Debug\IDAL.dll
+E:\Project\IDAL\obj\Debug\IDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+C:\Users\龚\Desktop\asp.net08\Project\IDAL\obj\Debug\IDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\IDAL\obj\Debug\IDAL.pdb
+C:\Users\龚\Desktop\asp.net08\Project\IDAL\bin\Debug\IDAL.dll
+C:\Users\龚\Desktop\asp.net08\Project\IDAL\bin\Debug\IDAL.pdb
